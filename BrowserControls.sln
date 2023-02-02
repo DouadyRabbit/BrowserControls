@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserControls", "BrowserControls.csproj", "{44DE3FDF-05C3-43B9-BE69-C9F40A2F6255}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BrowserControlsSetup", "Setup\BrowserControlsSetup\BrowserControlsSetup.vdproj", "{BC51672F-BD23-4AC6-B6BF-8009F320A944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DE3FDF-05C3-43B9-BE69-C9F40A2F6255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DE3FDF-05C3-43B9-BE69-C9F40A2F6255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DE3FDF-05C3-43B9-BE69-C9F40A2F6255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DE3FDF-05C3-43B9-BE69-C9F40A2F6255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC51672F-BD23-4AC6-B6BF-8009F320A944}.Debug|Any CPU.ActiveCfg = Debug
+		{BC51672F-BD23-4AC6-B6BF-8009F320A944}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {619C47A3-C05F-4493-A22E-56A130FF738B}
+	EndGlobalSection
+EndGlobal
