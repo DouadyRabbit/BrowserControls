@@ -91,7 +91,7 @@ namespace BrowserControls
 
             IJavaScriptExecutor js = (IJavaScriptExecutor)webDriver;
 
-            //Down and up
+            //Down and up.
             js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight);");
             js.ExecuteScript("window.scrollTo(0, 0)");
 
