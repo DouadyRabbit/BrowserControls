@@ -1,2 +1,2 @@
 # BrowserControls
-Selenium Wrapprt for COM Interop from legacy applications that can't interact with selenium libraries
+Selenium Wraper for COM Interop with legacy languages that can't interact with selenium libraries, i.e. Visual Foxpro
